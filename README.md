@@ -3,7 +3,7 @@
 
 Web app where users can post, review and like muffin reviews. [*Muffin Mornings Backend*](https://github.com/kangyongn/muffin_mornings_backend)
 ## Project Aim
-1. Create a dynamically rendering web app by converting previous Ruby on Rails projects using JavaScript.
+1. Create a dynamically rendering web app by converting previous project.
 2. Create a custom Rails backend to function alongside a JavaScript frontend.
 2. Implement full CRUD actions.
 3. Implement mock login function.
